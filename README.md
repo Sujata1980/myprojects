@@ -1,3 +1,4 @@
 # myprojects
 This is my first Git Repository.
-Author - Sujata Agarwal
+<br>
+Author - (Sujata Agarwal)
